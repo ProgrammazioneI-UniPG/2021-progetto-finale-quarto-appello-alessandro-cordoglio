@@ -527,11 +527,11 @@ for(int i=0;i<num_p;i++){
   }
 }
 
-  f=fine();
 for(int turno=0; turno<=num_p && f==0; turno++){
 if (turno==num_p) {
   turno=0;
 }
+f=fine();
   //controllo dell condizione "assassinato"
 kill=FALSE;
 for (int i = 0; i <num_p; i++) {
