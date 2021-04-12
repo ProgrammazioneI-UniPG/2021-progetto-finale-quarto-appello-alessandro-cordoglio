@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 #include "gamelib.h"
 
 // Questo file continene solo la definizione della funzione main
